@@ -1,0 +1,44 @@
+{
+  "name": "nodebb-plugin-sso-vkontakte",
+  "version": "0.1.0",
+  "description": "NodeBB Vkontakte SSO",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DriverPackSolution/nodebb-plugin-sso-vkontakte"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "vkontakte",
+    "sso",
+    "single sign on",
+    "registration"
+  ],
+  "author": {
+    "name": "Artur Kuzyakov",
+    "email": "artx@drp.su"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/DriverPackSolution/nodebb-plugin-sso-vkontakte/issues"
+  },
+  "dependencies": {
+    "passport-vkontakte": "~0.2.1"
+  },
+  "homepage": "https://github.com/DriverPackSolution/nodebb-plugin-sso-vkontakte",
+  "_id": "nodebb-plugin-sso-vkontakte@0.1.0",
+  "_from": "nodebb-plugin-sso-vkontakte@",
+  "_npmVersion": "1.4.3",
+  "_npmUser": {
+    "name": "DriverPackSolution",
+    "email": "artx@drp.su"
+  },
+  "maintainers": [
+    {
+      "name": "DriverPackSolution",
+      "email": "artx@drp.su"
+    }
+  ],
+  "directories": {}
+}
