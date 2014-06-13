@@ -1,0 +1,2 @@
+nodebb-plugin-sso-vkontakte
+===========================
